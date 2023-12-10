@@ -1,0 +1,59 @@
+{
+  "favourites": [
+    {
+      "categoryName": "malayalam",
+      "allsong": [],
+      "id": 1
+    },
+    {
+      "categoryName": "hindi",
+      "allsong": [],
+      "id": 2
+    },
+    {
+      "categoryName": "hindi",
+      "allsong": [],
+      "id": 3
+    },
+    {
+      "categoryName": "Tamil",
+      "allsong": [],
+      "id": 4
+    },
+    {
+      "categoryName": "kannada",
+      "allsong": [],
+      "id": 5
+    },
+    {
+      "categoryName": "English",
+      "allsong": [],
+      "id": 6
+    },
+    {
+      "categoryName": "Arabic",
+      "allsong": [],
+      "id": 7
+    },
+    {
+      "categoryName": "telunge",
+      "allsong": [],
+      "id": 8
+    },
+    {
+      "categoryName": "rock",
+      "allsong": [],
+      "id": 9
+    },
+    {
+      "categoryName": "Romantic",
+      "allsong": [],
+      "id": 10
+    },
+    {
+      "categoryName": "mashups",
+      "allsong": [],
+      "id": 11
+    }
+  ]
+}
